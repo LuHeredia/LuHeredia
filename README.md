@@ -30,7 +30,7 @@ Main tasks:
 
 - Creative
 - Logical-Thinker
-- Promlem-Solver
+- Problem-Solver
 - Fast-Learner
 - Curious
 - Teamwork
