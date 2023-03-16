@@ -49,6 +49,13 @@ Main tasks:
 [![sql](https://camo.githubusercontent.com/553d9f00389458b300805cba8170fa71e1150bd1b9e973d9ff879eb72a33f191/68747470733a2f2f726561646d652d636f6d706f6e656e74732e76657263656c2e6170702f6170693f636f6d706f6e656e743d6c6f676f2666696c6c3d626c61636b266c6f676f3d506f737467726553514c2673766766696c6c3d333336373931)]()
 [![javascript](https://camo.githubusercontent.com/a4b0c52143bce39b20016c69445ec8c678b624c4e69343f4ddbd2d725ec17637/68747470733a2f2f726561646d652d636f6d706f6e656e74732e76657263656c2e6170702f6170693f636f6d706f6e656e743d6c6f676f2666696c6c3d626c61636b266c6f676f3d6a6176617363726970742673766766696c6c3d663664663163)]()
 
+## Proyects
+
+- [![SimpleService]([https://camo.githubusercontent.com/a4b0c52143bce39b20016c69445ec8c678b624c4e69343f4ddbd2d725ec17637/68747470733a2f2f726561646d652d636f6d706f6e656e74732e76657263656c2e6170702f6170693f636f6d706f6e656e743d6c6f676f2666696c6c3d626c61636b266c6f676f3d6a6176617363726970742673766766696c6c3d663664663163](https://simpleservice.vercel.app/))]()
+
+ Plataforma para trabajadores autónomos que les permite ofrecer sus servicios de manera fácil y efectiva. Los trabajadores autónomos pueden conectarse con una amplia audiencia de clientes y hacer crecer su negocio de manera significativa.
+ Este emocionante proyecto fue el resultado de un trabajo en equipo, un grupo de siete personas altamente capacitadas. Tuve el honor de participar en el diseño de la parte visual de la aplicación. En particular, me encargué del desarrollo de la parte front-end, trabajando de manera eficaz en CSS y HTML para crear una interfaz excepcionalmente hermosa y fácil de usar.
+
 
 ## Contact Me
 
