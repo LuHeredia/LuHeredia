@@ -28,7 +28,7 @@ Main tasks:
 
 ## Portfolio
 
-[![Portfolio]([https://camo.githubusercontent.com/a4b0c52143bce39b20016c69445ec8c678b624c4e69343f4ddbd2d725ec17637/68747470733a2f2f726561646d652d636f6d706f6e656e74732e76657263656c2e6170702f6170693f636f6d706f6e656e743d6c6f676f2666696c6c3d626c61636b266c6f676f3d6a6176617363726970742673766766696c6c3d663664663163](https://portfolio-red-kappa-23.vercel.app/)]()
+[![💼Portfolio]()](https://portfolio-red-kappa-23.vercel.app/)
 
 ## Skills
 
