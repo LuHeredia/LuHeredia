@@ -11,6 +11,7 @@
 
 Hello! my name is Luciana Heredia, I am 24 years old and I am from Tucuman, Argentina.
 I am a passionate Full Stack Web Developer with solid skills in HTML, CSS, JavaScript, ReactJS, Redux, Node.js, SQL and Git. I am a tireless and enthusiastic worker who is always looking for new challenges and opportunities to grow and improve as a professional. I have an empathetic and friendly personality, which allows me to work in a team and collaborate with my colleagues effectively. I have a strong desire to learn more and continue to grow in my career. I am looking for opportunities to apply my skills and knowledge and contribute to the success of a company.
+
 ## Experience
 
 Full-Stack Teaching Assistant
@@ -25,6 +26,9 @@ Main tasks:
 
 • Propose ideas to improve the Bootcamp processes.
 
+## Portfolio
+
+[![Portfolio](https://portfolio-red-kappa-23.vercel.app/)]()
 
 ## Skills
 
